@@ -1,2 +1,3 @@
 abcdefg
-age:"18"
+age:"18",
+text:"脑子是个好东西啊"
